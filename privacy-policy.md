@@ -58,7 +58,7 @@ Access & deletion: If you have uploaded data via a cloud/account feature, you ma
 Opt-out: You can opt out of analytics/crash reporting in App settings at any time.
 
 10. Children
-The App is not directed to children under 13. We do not knowingly collect personal data from children; if we learn we have, we will delete it.
+The App is not directed to children under 18. We do not knowingly collect personal data from children; if we learn we have, we will delete it.
 
 11. International Transfers
 If you enable cloud features and your data is processed outside your country, we will use appropriate safeguards for cross-border transfers.
